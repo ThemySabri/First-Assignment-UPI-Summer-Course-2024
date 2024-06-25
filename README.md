@@ -12,5 +12,8 @@
 ## Screenshot of the Program
 
 1.
+
 2.
-3. ![Study Case 3](image.png)
+
+3. Study Case 3: COVID 19 Infection Statistic
+   ![Study Case 3](image.png)
