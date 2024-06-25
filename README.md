@@ -11,7 +11,10 @@
 
 ## Screenshot of the Program
 
-1.
+1. First Case Study : Miles Per Gallon
+
+![image](https://github.com/ThemySabri/First-Assignment-UPI-Summer-Course-2024/assets/134931500/c55ccb39-2449-43e3-95ac-a7c576ea69d4)
+
 
 2. Second Case Study : A Game of Chance - Crap
 
