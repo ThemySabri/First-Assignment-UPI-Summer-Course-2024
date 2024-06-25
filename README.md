@@ -15,5 +15,5 @@
 
 2.
 
-3. Study Case 3: COVID 19 Infection Statistic
+3. Study Case 3: COVID 19 Infection Statistic <br />
    ![Study Case 3](image.png)
